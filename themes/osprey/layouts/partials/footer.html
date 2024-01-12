@@ -1,0 +1,28 @@
+<footer class="row middle-xs center-xs">
+  <div class="col-xs-12" style="margin-top: 2rem;">
+    <h3>Our sponsors:</h3>
+  </div>
+
+  <div class="col-xs-12">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+    <img src="/images/Radiant_Dyes_logo_rgb.png">
+  </div>
+
+  {{ if or (.Site.Params.copyright) (.Site.Params.credit) }}
+    <div class="col-xs-12">
+      {{ if .Site.Params.copyright }}
+      {{ i18n "copyright" }} &copy; {{ now.Format "2006" }} {{ .Site.Title }}.
+      {{ end }}
+      {{ if .Site.Params.credit }}
+        <a href="https://tomanistor.com" target="_blank" rel="nofollow">{{ i18n "themeDevelopedBy" }} Toma Nistor</a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+</footer>
