@@ -1,22 +1,21 @@
-title = "Osprey Example Site"
-baseURL = "https://tomanistor.com"
-tags = ["portfolio", "web design", "blog"]
+title = "Greenhorn 2024"
+baseURL = "https://greenhorn2024.github.io"
+tags = ["greenhorn", "meeting", "academia", "university", "siegen", "master", "phd", "optics", "ions"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Osprey Example Site"
-  author = "Toma Nistor"
-  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+  tagline = ""
+  author = ""
+  description = "The annual greenhorn meeting, 2024 at the university of Siegen"
   logoBig = "/images/logo.png"
   logoSmall = "/images/logo.png"
-  favicon = "favicon.ico"
-  opengraphImage = "/images/osprey.png"
+  #favicon = "favicon.ico"
+  #opengraphImage = "/images/osprey.png"
   email = ""
   googleTagManger = ""
   customCSS = false
