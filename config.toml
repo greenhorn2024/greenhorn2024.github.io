@@ -21,12 +21,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   googleTagManger = ""
   customCSS = false
 
-  # Social media links in footer
-  twitter = "TomaNistor"
-  linkedin = "tomanistor"
-  github = "tomanistor"
-  facebook = ""
-
   # Copyright and theme author credit in footer
   copyright = false
   credit = false
