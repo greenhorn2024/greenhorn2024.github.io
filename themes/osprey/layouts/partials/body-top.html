@@ -13,12 +13,11 @@
   <style>
     canvas {
       width: 100vw;
-      height: 100%;
+      height: 85%;
       display: absolute;
-      position: fixed;
+      position: absolute;
       top: 0;
       left: 0;
-      padding-bottom: 20rem;
       z-index: -9999;
     }
   </style>
@@ -128,7 +127,8 @@
                 * laser(vec2(uvc.x, 1.0-uv.y+0.5), 30);
             float c = clouds(uv);
             vec4 col = vec4(0, 1, 0, 1)*(uv.y*l+uv.y*uv.y)*c;
-            gl_FragColor = pow(col, vec4(1));
+            if (col.a > 1.1) col.a = 1.1;
+            gl_FragColor = pow(col * vec4(1, 1, 1, .7), vec4(1));
         }
       `;  
     
