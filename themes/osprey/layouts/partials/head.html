@@ -24,6 +24,14 @@
     {{- end }}
   </title>
 
+      <!-- Sets whether a web application runs in full-screen mode.
+    See: https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html#//apple_ref/doc/uid/TP40008193-SW3 -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+ 
+    <!-- Sets the style of the status bar for a web application.
+    See: https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html#//apple_ref/doc/uid/TP40008193-SW4 -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
   <meta name="title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.heading }}{{ .Params.heading }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end}}">
 
   <meta charset="utf-8">
