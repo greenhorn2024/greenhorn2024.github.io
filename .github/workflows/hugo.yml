@@ -57,6 +57,10 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+          mv ./public ./public_tmp
+          mkdir ./public/
+          mv ./public_tmp ./public/2024
+          echo '<html><head><meta http-equiv="refresh" content="0; url=https://greenhorn-meeting.net/2024/" /></head><body></body></html>' > ./public/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
