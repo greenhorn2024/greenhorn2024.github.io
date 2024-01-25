@@ -1,5 +1,5 @@
 title = "Greenhorn 2024"
-baseURL = "https://greenhorn2024.github.io"
+baseURL = "https://greenhorn-meeting.net/2024/"
 tags = ["greenhorn", "meeting", "academia", "university", "siegen", "master", "phd", "optics", "ions"]
 languageCode = "en-US"
 config = "config.toml"
