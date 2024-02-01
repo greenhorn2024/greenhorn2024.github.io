@@ -51,6 +51,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#venue"
   weight = 2
 [[menu.main]]
+  name = "Program"
+  url  = "/#program"
+  weight = 2
+[[menu.main]]
   name = "Registration"
   url  = "/#registration"
   weight = 3
