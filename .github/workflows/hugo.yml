@@ -54,9 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          hugo
           mv ./public ./public_tmp
           mkdir ./public/
           mv ./public_tmp ./public/2024
