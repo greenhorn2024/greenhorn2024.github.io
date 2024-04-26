@@ -12,4 +12,4 @@ the **Experimental Quantum Optics group of Prof. Christof Wunderlich** (see [Web
 
 There is **no conference fee**.
 
-Further information regarding the hotels will be provided later.
+Since there are no hostels in the vicinity of Siegen, you will have to book a hotel. Further information regarding the hotels and recommendations will be provided later.
