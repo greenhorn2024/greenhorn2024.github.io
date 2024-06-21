@@ -12,4 +12,4 @@ the **Experimental Quantum Optics group of Prof. Christof Wunderlich** (see [Web
 
 There is **no conference fee**.
 
-Since there are no hostels in the vicinity of Siegen, you will have to book a hotel. Further information regarding the hotels and recommendations will be provided later.
+Since there are no hostels in the vicinity of Siegen, you should book an accommodation on your own, e. g. Hotel-Gasthof Meier, Hotel Concorde, Hotel Bürger or Hotel Holiday Inn Express. You can also book one of the many Airbnbs in Siegen.
