@@ -12,16 +12,16 @@ here.
 
 | *Time/Date*          | *09.09.24* | *10.09.24*               |
 |----------------------|------------|--------------------------|
-| **08:45 - 09:30**    |            | Registration & Breakfast |
-| **09:30 - 10:00**    |            | Opening                  |
-| **10:00 - 11:30**    |            | Talks 1                  |
-| **11:15 - 11:45**    |            | Coffee break             |
-| **11:45 - 13:15**    |            | Talks 2                  |
-| **13:15 - 14:15**    |            | Lunch@mensa              |
-| **14:15 - 16:00**    |            | Posters 1                |
-| **16:00 - 17:00**    |            |                          |
-| **17:00 - 18:00**    | Arrival    | Lab tours@ENC            |
-| **18:00 - open end** | Pub crawl  | BBQ@ENC                  |
+|  **08:45 - 09:30**     |            |  Registration & Breakfast  |
+|  **09:30 - 10:00**     |            |  Opening                   |
+|  **10:00 - 11:30**     |            |  Talks 1                   |
+|  **11:15 - 11:45**     |            |  Coffee break              |
+|  **11:45 - 13:15**     |            |  Talks 2                   |
+|  **13:15 - 14:15**     |            |  Lunch@mensa               |
+|  **14:15 - 16:00**     |            |  Posters 1                 |
+|  **16:00 - 17:00**     |            |                          |
+|  **17:00 - 18:00**     |  Arrival     |  Lab tours@ENC             |
+|  **18:00 - open end**  |  Pub crawl   |  BBQ@ENC                   |
 
 | *Time/Date*          | *11.09.24*    | *12.09.24*    |
 |----------------------|---------------|---------------|
@@ -35,3 +35,7 @@ here.
 | **16:00 - 17:00**    |               |               |
 | **17:00 - 18:00**    |               |               |
 | **18:00 - open end** | Joint dinner  |               |
+
+## Booklet
+
+You will receive a printed version of the booklet when arriving, but here you can ![https://greenhorn-meeting.net/2024/images/programme.pdf](download) a pdf version of it already.
