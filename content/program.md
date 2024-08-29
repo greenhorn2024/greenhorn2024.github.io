@@ -10,7 +10,7 @@ here.
 
 ## Schedule
 
-
+<div style="font-size: 0.2rem;">
 | Time/Date        | 09.09.24  | 10.09.24                 | 11.09.24      | 12.09.24      |
 |------------------|-----------|--------------------------|---------------|---------------|
 | 08:45 - 09:30    |           | Registration & Breakfast | Breakfast     | Breakfast     |
@@ -23,3 +23,4 @@ here.
 | 16:00 - 17:00    |           |                          |               |               |
 | 17:00 - 18:00    | Arrival   | Lab tours@ENC            |               |               |
 | 18:00 - open end | Pub crawl | BBQ@ENC                  | Joint dinner  |               |
+</div>
