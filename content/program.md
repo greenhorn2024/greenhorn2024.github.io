@@ -23,18 +23,22 @@ here.
 |  **17:00 - 18:00**     |  Arrival     |  Lab tours@ENC             |
 |  **18:00 - open end**  |  Pub crawl   |  BBQ@ENC                   |
 
+<br>
+
 | *Time/Date*          | *11.09.24*    | *12.09.24*    |
 |----------------------|---------------|---------------|
-| **08:45 - 09:30**    | Breakfast     | Breakfast     |
-| **09:30 - 10:00**    | External talk | External talk |
-| **10:00 - 11:30**    | Talks 3       | Talks 5       |
-| **11:15 - 11:45**    | Coffee break  | Coffee break  |
-| **11:45 - 13:15**    | Talks 4       | Talks 6       |
-| **13:15 - 14:15**    | Lunch@mensa   | Lunch@mensa   |
-| **14:15 - 16:00**    | Posters 2     | Closing       |
-| **16:00 - 17:00**    |               |               |
-| **17:00 - 18:00**    |               |               |
-| **18:00 - open end** | Joint dinner  |               |
+|  **08:45 - 09:30**     |  Breakfast      |  Breakfast      |
+|  **09:30 - 10:00**     |  External talk  |  External talk  |
+|  **10:00 - 11:30**     |  Talks 3        |  Talks 5        |
+|  **11:15 - 11:45**     |  Coffee break   |  Coffee break   |
+|  **11:45 - 13:15**     |  Talks 4        |  Talks 6        |
+|  **13:15 - 14:15**     |  Lunch@mensa    |  Lunch@mensa    |
+|  **14:15 - 16:00**     |  Posters 2      |  Closing        |
+|  **16:00 - 17:00**     |               |               |
+|  **17:00 - 18:00**     |               |               |
+|  **18:00 - open end**  |  Joint dinner   |               |
+
+<br><br>
 
 ## Booklet
 
