@@ -42,4 +42,4 @@ here.
 
 ## Booklet
 
-You will receive a printed version of the booklet when arriving, but here you can ![https://greenhorn-meeting.net/2024/images/programme.pdf](download) a pdf version of it already.
+You will receive a printed version of the booklet when arriving, but here you can [download](/images/programme.pdf) a pdf version of it already.
